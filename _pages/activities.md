@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 ##Summer School
-======
+
 * Qualia Structure Summer School, 2024.06, Kansai area (Kyoto, Osaka, and Kobe), Japan
 
 ##Conference
-======
+
 Loading
 
