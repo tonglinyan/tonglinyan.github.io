@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Tonglin Yan"
 excerpt: "Homepage"
 author_profile: true
 redirect_from: 
