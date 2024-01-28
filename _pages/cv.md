@@ -7,4 +7,5 @@ redirect_from:
   - /resume
 ---
 
-Please find my CV here: [Tonglin Yan's CV](../assets/CV_Tonglin YAN_.pdf)
+Please find my CV here: [Tonglin Yan's CV](assets/CV_YAN Tonglin_.pdf)
+
