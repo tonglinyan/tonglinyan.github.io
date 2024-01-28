@@ -14,3 +14,5 @@ I graduated from [INSA Rouen Normandie](https://www.insa-rouen.fr/) with an Engi
 
 My research interest focuses on the intersection of cognition science and artificial intelligence. 
 
+[CV](https://github.com/tonglinyan/tonglinyan.github.io/blob/master/_pages/CV_YAN%20Tonglin_.pdf)
+
