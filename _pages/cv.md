@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-Please find my CV here:
+Please find my [CV](../files/CV_YAN Tonglin_.pdf) here:
 
 <object data="../files/CV_YAN Tonglin_.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="../files/CV_YAN Tonglin_.pdf">
