@@ -298,3 +298,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+google_analytics: UA-7545882258-X
