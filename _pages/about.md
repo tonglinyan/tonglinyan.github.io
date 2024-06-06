@@ -12,6 +12,6 @@ I am a first-year Ph.D. student in the laboratory [CIAMS](https://www.faculte-sc
 
 I graduated from [INSA Rouen Normandie](https://www.insa-rouen.fr/) with an Engineering Degree in Mathematics Engineering. I also pursued a double master's degree in Data Science and Engineering (SID), co-accredited by INSA Rouen Normandie and [Université de Rouen Normandie](https://www.univ-rouen.fr/).
 
-My research interest focuses on the intersection of cognition science and artificial intelligence. 
+My research interest focuses on integrating Large Language Model into Projective Consicousness Model. I'm also interested in the mathematical model of consciousness. 
 
 
