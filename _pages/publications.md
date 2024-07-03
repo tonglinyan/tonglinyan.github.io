@@ -17,7 +17,7 @@ N. Ruet, T. Yan, D. Ognibene, K. Williford, D. Rudrauf, G. Sergeant-Perthuis, AS
 
 ### Workshop
 * Optimal control on hallucinatory colors <br>
-Lemona Xinxuan Zhang, Tonglin Yan, Ken Takeda, Matteo Paganin, Post-ASSC Satellite Workshop([poster](../files/post_ASSC_lemona_tonglin.pdf)), July 2024
+Lemona Xinxuan Zhang, Tonglin Yan, Ken Takeda, Matteo Paganin, Post-ASSC Satellite Workshop ([poster](../files/post_ASSC_lemona_tonglin.pdf)), July 2024
 
 ### Preprint
 * [Integrated Information Theory (IIT) with Simple Maths](https://hal.sorbonne-universite.fr/hal-04531404/document) <br>
