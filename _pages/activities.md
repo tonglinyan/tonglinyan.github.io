@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 ### Summer School
-* 2024.06: Qualia Structure Summer School, Kansai area (Kyoto, Osaka, and Kobe), Japan
+* 2024.06: Qualia Structure Summer School, Kansai area (Osaka, Awaji), Japan
 
 
