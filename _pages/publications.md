@@ -15,11 +15,11 @@ D. Rudrauf, T. Yan, N. Ruet, K. Williford, G. Sergeant-Perthuis, ASSC27 ([talk](
 * Exploring how the geometry of the representation space influences curiosity-based exploration <br>
 N. Ruet, T. Yan, D. Ognibene, K. Williford, D. Rudrauf, G. Sergeant-Perthuis, ASSC27 ([poster](https://universite-paris-saclay.hal.science/hal-04637645)), Tokyo, Japan, July 2024
 
-### Workshop
+### Workshops
 * Optimal control on hallucinatory colors <br>
 Lemona Xinxuan Zhang, Tonglin Yan, Ken Takeda, Matteo Paganin, [Post-ASSC Satellite Symposium](https://drive.google.com/file/d/1oog64kLhi32-Y_ArKAsA3WzItYQobJCM/view?usp=sharing) ([poster](https://universite-paris-saclay.hal.science/hal-04637646)), Kyoto, Japan, July 2024
 
-### Preprint
+### Preprints
 * [Integrated Information Theory (IIT) with Simple Maths](https://hal.sorbonne-universite.fr/hal-04531404/document) <br>
 Grégoire Sergeant-Perthuis, Tonglin Yan, Nils Ruet, Kenneth Williford, David Rudrauf, 2024
 
