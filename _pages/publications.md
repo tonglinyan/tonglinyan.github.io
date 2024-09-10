@@ -17,9 +17,9 @@ N. Ruet, T. Yan, D. Ognibene, K. Williford, D. Rudrauf, G. Sergeant-Perthuis, AS
 
 ### Workshops
 * Optimal control on hallucinatory colors <br>
-Lemona Xinxuan Zhang, Tonglin Yan, Ken Takeda, Matteo Paganin, [Post-ASSC Satellite Symposium](https://drive.google.com/file/d/1oog64kLhi32-Y_ArKAsA3WzItYQobJCM/view?usp=sharing) ([poster](https://universite-paris-saclay.hal.science/hal-04637646)), Kyoto, Japan, July 2024
+X. Zhang, T. Yan, K. Takeda, M. Paganin, [Post-ASSC Satellite Symposium](https://drive.google.com/file/d/1oog64kLhi32-Y_ArKAsA3WzItYQobJCM/view?usp=sharing) ([poster](https://universite-paris-saclay.hal.science/hal-04637646)), Kyoto, Japan, July 2024
 
 ### Preprints
 * [Integrated Information Theory (IIT) with Simple Maths](https://hal.sorbonne-universite.fr/hal-04531404/document) <br>
-Grégoire Sergeant-Perthuis, Tonglin Yan, Nils Ruet, Kenneth Williford, David Rudrauf, 2024
+G. Sergeant-Perthuis, T. Yan, N. Ruet, K. Williford, D. Rudrauf, 2024
 
