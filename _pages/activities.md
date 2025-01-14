@@ -9,4 +9,7 @@ redirect_from:
 ### Summer School
 * 2024.06: [Qualia Structure Summer School](https://en.qualia-structure.jp/news/detail/3569), Kansai area (Osaka, Awaji), Japan
 
+### Supervision
+* Germain Poloudenny, M2, Université d'Artois
+
 
