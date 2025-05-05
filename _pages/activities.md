@@ -7,10 +7,10 @@ redirect_from:
   - /resume
 ---
 ### Summer School
-* 2024.06: [Qualia Structure Summer School](https://en.qualia-structure.jp/news/detail/3569), Kansai area (Osaka, Awaji), Japan
+* [Qualia Structure Summer School](https://en.qualia-structure.jp/news/detail/3569), Kansai area (Osaka, Awaji), Japan, June 2024
 
 ### Supervision
-* Yannick Zelle, M1, ENS
-* Germain Poloudenny, M2, Université d'Artois
+* Yannick Zelle, M1, ENS, 2025
+* Germain Poloudenny, M2, Université d'Artois, 2024
 
 
