@@ -26,7 +26,6 @@ X. Zhang, T. Yan, K. Takeda, M. Paganin, [Post-ASSC Satellite Symposium](https:/
 * [PCM-LLMs: A Hybrid Architecture to Enhance Human-like Social Intelligence in Virtual Agents](https://hal.science/hal-05054281) <br>
 T. Yan, D. Rudrauf, G. Sergeant-Perthuis, 2025
 
-
 * [Integrated Information Theory (IIT) with Simple Maths](https://hal.sorbonne-universite.fr/hal-04531404/document) <br>
 G. Sergeant-Perthuis, T. Yan, N. Ruet, K. Williford, D. Rudrauf, 2024
 
