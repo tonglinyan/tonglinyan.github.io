@@ -7,7 +7,7 @@ author_profile: true
 
 ### International conferences
 * PCM-LLMs: Bridging Non-Verbal Consciousness Modeling and Language Processing to Make Intelligent Social Virtual Agents Closer to Human Beings <br>
-T. Yan, G. Sergeant-Perthuis, K. Williford, D. Rudrauf, [ASSC28](https://assc2025.gr/) (poster), Crete, Greece, July 2025
+T. Yan, G. Sergeant-Perthuis, K. Williford, D. Rudrauf, [ASSC28](https://assc2025.gr/) ([poster]https://hal.science/hal-05146878), Crete, Greece, July 2025
 
 * Dualities in Homogeneous Spaces May Underly Pre-Reflective Self-Consciousness <br>
 G. Sergeant-Perthuis, N. Ruet, T. Yan, K. Williford, D. Rudrauf, [ASSC27](https://assc27.net/) ([poster](https://hal.sorbonne-universite.fr/hal-04636572)), Tokyo, Japan, July 2024
