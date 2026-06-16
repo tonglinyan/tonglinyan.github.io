@@ -19,15 +19,19 @@ D. Rudrauf, T. Yan, N. Ruet, K. Williford, G. Sergeant-Perthuis, ASSC27 ([talk](
 N. Ruet, T. Yan, D. Ognibene, K. Williford, D. Rudrauf, G. Sergeant-Perthuis, ASSC27 ([poster](https://universite-paris-saclay.hal.science/hal-04637645)), Tokyo, Japan, July 2024
 
 ### Workshops
+* Minds Without Bodies: How VLMs Fail at Embodied Social Reasoning <br>
+T. Yan, G. Sergeant-Perthuis, D. Rudrauf, [1st Workshop on Computational Psychology](https://compsych.sciencesconf.org/) ([poster](https://hal.science/hal-05652627)), ENS Paris-Saclay, France, 2026 
+
 * Optimal control on hallucinatory colors <br>
 X. Zhang, T. Yan, K. Takeda, M. Paganin, [Post-ASSC Satellite Symposium](https://drive.google.com/file/d/1oog64kLhi32-Y_ArKAsA3WzItYQobJCM/view?usp=sharing) ([poster](https://universite-paris-saclay.hal.science/hal-04637646)), Kyoto, Japan, July 2024
 
 ### Under review
-* A Hybrid PCM-LLM Architecture for Interpretable and Socially Situated Agents <br>
-T. Yan, G. Sergeant-Perthuis, D. Rudrauf, 2026 
 
 * [Formalizing Consciousness: A Comparative Mathematical Analysis of Leading Theories](https://hal.science/hal-05586345)  <br>
 T. Yan, J. Tsukahara, K. Williford, D. Rudrauf, G. Sergeant-Perthuis, 2026
+
+* A Hybrid PCM-LLM Architecture for Interpretable and Socially Situated Agents <br>
+T. Yan, G. Sergeant-Perthuis, D. Rudrauf, 2026 
 
 ### Preprints
 * [Integrating Machine Consciousness Simulation and LLMs Toward Verbal and Non-Verbal General Intelligence in Artificial Agents](https://hal.science/hal-05064693) <br>

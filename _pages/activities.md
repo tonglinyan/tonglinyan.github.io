@@ -10,7 +10,8 @@ redirect_from:
 * [Qualia Structure Summer School](https://en.qualia-structure.jp/news/detail/3569), Kansai area (Osaka, Awaji), Japan, June 2024
 
 ### Supervision
-* Yannick Zelle, M1, ENS, 2025
-* Germain Poloudenny, M2, Université d'Artois, 2024
+* Co-supervised Le Wang (M2, Mines Saint-Etienne), with David Rudrauf, 2026
+* Co-supervised Yannick Zelle (M1, ENS), with David Rudrauf, 2025
+* Co-supervised Germain Poloudenny (M2, Université d'Artois), with David Rudrauf, 2024
 
 
