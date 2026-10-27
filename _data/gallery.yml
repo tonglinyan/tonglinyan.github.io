@@ -1,0 +1,6 @@
+# Optional captions for photos in images/gallery/.
+# Key = file name, value = caption shown under the photo and in the lightbox.
+# Photos without an entry here are still displayed, just without a caption.
+#
+# Example:
+# "2025-07-crete.jpg": "Chania, Crete — July 2025"
