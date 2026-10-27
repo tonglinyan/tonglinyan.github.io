@@ -55,7 +55,8 @@ Some photos I've taken along the way.
 </div>
 
 <script>
-  // Shuffle the photos on each visit (runs before the lightbox is set up)
+  /* Shuffle the photos on each visit (runs before the lightbox is set up).
+     Use block comments only: the layout collapses the page onto one line. */
   (function () {
     var grid = document.getElementById("photo-grid");
     var items = Array.prototype.slice.call(grid.children);
