@@ -1,5 +1,6 @@
 #!/bin/zsh
 # Prepare photos in images/gallery/ for the web:
+#   - convert HEIC to JPEG
 #   - prefix the file name with the capture date (YYYY-MM-DD_)
 #   - bake EXIF rotation into the pixels
 #   - resize to 2000px on the long side (JPEG quality 75)
@@ -17,6 +18,14 @@ FULL=2000
 THUMB=720
 QUALITY=75
 THUMB_QUALITY=65
+
+# Convert iPhone HEIC photos to JPEG (most browsers cannot show HEIC)
+for f in *.(heic|HEIC)(N); do
+  sips -s format jpeg -s formatOptions 95 "$f" --out "${f:r}.jpg" >/dev/null
+  exiftool -q -overwrite_original -tagsFromFile "$f" -all:all "${f:r}.jpg" || true
+  rm "$f"
+  echo "converted $f"
+done
 
 # Date prefix for new photos (files not starting with a year)
 for f in *.(jpg|JPG|jpeg|JPEG)(N); do
